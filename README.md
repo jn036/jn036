@@ -40,7 +40,10 @@
 
 
 
-- 🔭 I’m currently working on teaching programming for kids and adults.
-- 🌱 I’m currently learning data science.
-- 📫 How to reach me: Just send me a message in here or using my social medias.
-- ⚡ Fun fact: I also make some livestreams in the free time, but just for fun.
+## ✨ About Me
+
+- 🔭 I’m currently working on **teaching programming** for kids and adults.  
+- 🌱 I’m currently learning more about **data science** and real-world applications.  
+- 📫 You can reach me here on GitHub or via my **social media** (check the links below!).  
+- ⚡ Fun fact: I also do some **livestreams for fun** in my free time!
+
