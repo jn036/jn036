@@ -28,10 +28,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📈 My GitHub Stats
-
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=jn036&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jn036&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me
 
@@ -44,6 +40,5 @@
 
 - 🔭 I’m currently working on **teaching programming** for kids and adults.  
 - 🌱 I’m currently learning more about **data science** and real-world applications.  
-- 📫 You can reach me here on GitHub or via my **social media** (check the links below!).  
 - ⚡ Fun fact: I also do some **livestreams for fun** in my free time!
 
